@@ -1,0 +1,7 @@
+3
+Petras Petraitis    20
+Rimas Rimaitis      5
+Jurgis Jurgaitis    6
+2
+Rimtis Javaitis     0 50
+Romas Roputis       20 0

@@ -1,0 +1,8 @@
+1 15
+20 50
+Taip
+Petras Petraitis    20 0 10
+Rimas Rimaitis      5 1 2
+Jurgis Jurgaitis    6 0 3
+Rimtis Javaitis     0 35
+Romas Roputis       19 0
